@@ -22,12 +22,12 @@
 const hassan = {
     name: "Hassan Salman",
     handle: "@3h0ll7",
-    role: "ICU Registered Nurse × AI Product Builder",
+    role: "ICU Registered Nurse × AI Product Builder,designer, prompt 🦞",
     location: "Najaf, Iraq 🇮🇶",
-    education: "Nursing + 7 years AI/ML self-taught",
+    education: "Nursing + 4 years AI/ML self-taught",
     certifications: ["AHA BLS Provider (→ Sep 2027)", "Claude Certified Architect (studying)"],
     currently: {
-        building: "AI-powered clinical tools for nurses",
+        building: "AI-POWERED tools ",
         learning: "Multi-agent systems & prompt engineering",
         shipping: "Products on Lovable.dev + Supabase"
     },

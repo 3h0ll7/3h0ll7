@@ -1,45 +1,74 @@
 <!-- Matrix Rain Header -->
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=𝙷𝚊𝚜𝚜𝚊𝚗%20𝚂𝚊𝚕𝚖𝚊𝚗&fontSize=42&fontColor=00FF41&fontAlignY=35&desc=ICU%20Nurse%20%7C%20AI%20Engineer%20%7C%20Builder&descSize=18&descColor=00FF41&descAlignY=55&animation=fadeIn)
+![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=𝙷𝚊𝚜𝚜𝚊𝚗%20𝚂𝚊𝚕𝚖𝚊𝚗&fontSize=42&fontColor=00FF41&fontAlignY=35&desc=Vibe%20Coder%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descSize=18&descColor=00FF41&descAlignY=55&animation=fadeIn)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Building+AI-powered+clinical+tools+from+the+ICU;%3E+Where+nursing+meets+artificial+intelligence;%3E+Iraqi+developer+shipping+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Vibe+coding+real+products+into+existence;%3E+AI+engineer+shipping+from+Iraq+%F0%9F%87%AE%F0%9F%87%B6;%3E+16%2B+repos+%C2%B7+4+years+AI+%C2%B7+pure+vibes)](https://git.io/typing-svg)
 
 <!-- Status Badges -->
 ![Status](https://img.shields.io/badge/status-active-00FF41?style=flat-square&labelColor=0D1117)
 ![Repos](https://img.shields.io/badge/repos-16-00FF41?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/location-Iraq%20🇮🇶-00FF41?style=flat-square&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/focus-Healthcare%20AI-00FF41?style=flat-square&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/focus-Vibe%20Coding%20×%20AI-00FF41?style=flat-square&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 🔋 `> whoami`
+## 🪐 `> solar_system.map(planet => planet.about_me)`
 
-```js
-const hassan = {
-    name: "Hassan Salman",
-    handle: "@3h0ll7",
-    role: "ICU Registered Nurse × AI Product Builder,designer, prompt 🦞",
-    location: "Najaf, Iraq 🇮🇶",
-    education: "Nursing + 4 years AI/ML self-taught",
-    certifications: ["AHA BLS Provider (→ Sep 2027)", "Claude Certified Architect (studying)"],
-    currently: {
-        building: "AI-POWERED tools ",
-        learning: "Multi-agent systems & prompt engineering",
-        shipping: "Products on Lovable.dev + Supabase"
-    },
-    achievements: [
-        "Discovered scientific error in Saunders NCLEX-RN 9th Edition",
-        "Built 16+ full-stack AI products",
-        "Bridging Iraqi healthcare with AI technology"
-    ],
-    languages: ["English", "Arabic (Iraqi dialect)"],
-    motto: "Built at the nursing station — between alarms and assessments."
-};
+<div align="center">
+
 ```
+                            ╭── 🪐 ──╮
+                            │ SATURN │  Prompt Engineering
+                            │ Master │  JSON templates · 8 domains
+                            ╰────────╯
+                                            ╭─── 💎 ───╮
+           ╭── 🔴 ──╮                      │ NEPTUNE  │
+           │  MARS  │                       │ Open Src │  MIT licensed
+           │  Med AI│  insightmed           │ 16 repos │  GitHub
+           │  tools │  digitalnurse         ╰──────────╯
+           ╰────────╯
+                         ╭──── ☀️ ────╮
+  ╭── 🟠 ──╮            │            │           ╭── 🟣 ──╮
+  │ VENUS  │            │  HASSAN    │           │URANUS  │
+  │ AI Eng │ 4 years    │  SALMAN    │           │Content │  Canva
+  │ Claude │ Gemini     │            │           │Creator │  Design
+  │ GPT-5  │ certified  │ @3h0ll7 🇮🇶 │           ╰────────╯
+  ╰────────╯            │            │
+                         ╰────────────╯
+           ╭── 🌍 ──╮                      ╭── 🟤 ──╮
+           │ EARTH  │                      │JUPITER │
+           │  Iraqi │  شكد تسوه؟           │FullStk │  React · TS
+           │ Market │  Real Estate         │  Vibe  │  Supabase
+           ╰────────╯  Najaf               │ Coder  │  Lovable.dev
+                                           ╰────────╯
+                            ╭── ⚡ ──╮
+                            │MERCURY │  Ship fast
+                            │  Vibe  │  Break nothing
+                            │ Coding │  Pure energy
+                            ╰────────╯
+```
+
+</div>
+
+<div align="center">
+
+| 🪐 Planet | 🌌 Domain | ⚡ Details |
+|:---------:|:---------:|:----------:|
+| ☀️ **Sun** | **Hassan Salman** | `@3h0ll7` · Najaf, Iraq 🇮🇶 |
+| ⚡ **Mercury** | **Vibe Coding** | Ship fast · break nothing · pure energy |
+| 🟠 **Venus** | **AI Engineering** | 4 years · Claude · Gemini · GPT-5 |
+| 🌍 **Earth** | **Iraqi Market** | شكد تسوه · Real Estate · Arabic RTL |
+| 🔴 **Mars** | **Med-AI Tools** | insightmed · digitalnurse · ICU BRAIN |
+| 🟤 **Jupiter** | **Full-Stack** | React 18 · TypeScript · Supabase · Lovable |
+| 🪐 **Saturn** | **Prompt Eng** | JSON templates · 8 professional domains |
+| 🟣 **Uranus** | **Content** | Canva decks · design · medical education |
+| 💎 **Neptune** | **Open Source** | 16 repos · MIT · community |
+
+</div>
 
 ---
 
@@ -108,22 +137,6 @@ const hassan = {
 <tr>
 <td align="center" width="25%">
 
-### 🏥 Healthcare AI
-**digitalnurse**<br>
-Clinical cockpit for ICU/ER<br>
-90+ commits · PWA · Offline
-
-**insightmed**<br>
-Medical doc analysis<br>
-Multi-model AI council
-
-**ICU BRAIN**<br>
-Multi-agent ICU monitor<br>
-7 specialized agents
-
-</td>
-<td align="center" width="25%">
-
 ### 🤖 AI Tools & SaaS
 **kidinnuaitools**<br>
 191+ curated AI directory<br>
@@ -152,18 +165,26 @@ Peace & Quiet Index
 </td>
 <td align="center" width="25%">
 
-### 📚 Education
-**Vasopressor Decks**<br>
-ICU pharmacology<br>
-Canva presentations
+### 🏥 Med-AI
+**digitalnurse**<br>
+Clinical cockpit · PWA<br>
+90+ commits
 
-**ECG Modules**<br>
-Rhythm interpretation<br>
-Clinical pearls
+**insightmed**<br>
+Medical doc analysis<br>
+Multi-model AI council
 
-**NCLEX Prep**<br>
-Flashcard system<br>
-Spaced repetition
+</td>
+<td align="center" width="25%">
+
+### 🎨 Vibe Builds
+**hassanaii**<br>
+Personal portfolio<br>
+AI & Tech brand
+
+**ICU BRAIN**<br>
+Multi-agent dashboard<br>
+7 specialized agents
 
 </td>
 </tr>
@@ -200,7 +221,7 @@ Spaced repetition
 ![OpenAI](https://img.shields.io/badge/GPT--5-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=probot&logoColor=00FF41)
 
-### DevOps & Platforms
+### Vibe Coding Stack
 ![Lovable](https://img.shields.io/badge/Lovable.dev-0D1117?style=for-the-badge&logo=heart&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
 ![PWA](https://img.shields.io/badge/PWA-0D1117?style=for-the-badge&logo=pwa&logoColor=00FF41)
@@ -221,11 +242,10 @@ Spaced repetition
 | 🔀 **Pull Shark** | `x2` |
 | ⚡ **Quickdraw** | `Achieved` |
 | 🎯 **YOLO** | `Achieved` |
-| 🏥 **Clinical Experience** | `ICU Nurse (Active)` |
-| 🤖 **AI Experience** | `7+ Years` |
+| 🤖 **AI Experience** | `4 Years` |
+| 🎨 **Vibe Coding** | `Ship fast · break nothing` |
 | 🌐 **Languages** | `English · Arabic (Iraqi)` |
-| 📜 **BLS Certification** | `AHA Provider → Sep 2027` |
-| 📖 **NCLEX Discovery** | `Error in Saunders 9th Ed.` |
+| 📜 **Certification** | `Claude Architect (studying)` |
 
 </div>
 
@@ -251,9 +271,6 @@ Spaced repetition
 
 <div align="center">
 
-<!-- To enable this, create a GitHub Action workflow - see SETUP.md -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/3h0ll7/3h0ll7/output/github-snake-dark.svg) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3h0ll7/3h0ll7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3h0ll7/3h0ll7/output/github-snake.svg" />
@@ -273,15 +290,14 @@ Spaced repetition
 <br>
 
 ```
- ╔══════════════════════════════════════════════════════╗
- ║                                                      ║
- ║   "The Matrix has you..."                            ║
- ║    But I chose to build, not just watch.             ║
- ║                                                      ║
- ║    — Hassan Salman                                   ║
- ║      from the ICU nursing station, Najaf 🇮🇶          ║
- ║                                                      ║
- ╚══════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════╗
+ ║                                                          ║
+ ║   "I don't write code. I vibe it into existence."        ║
+ ║                                                          ║
+ ║    — @3h0ll7                                             ║
+ ║      Najaf, Iraq 🇮🇶                                      ║
+ ║                                                          ║
+ ╚══════════════════════════════════════════════════════════╝
 ```
 
 ![Matrix Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer&animation=fadeIn)

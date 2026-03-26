@@ -16,59 +16,82 @@
 
 ---
 
-## 🪐 `> solar_system.map(planet => planet.about_me)`
+## 💻 `> about_me`
+
+<div align="center">
+  <img src="./assets/dev-illustration.jpg" alt="Developer at work" width="500" />
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-                            ╭── 🪐 ──╮
-                            │ SATURN │  Prompt Engineering
-                            │ Master │  JSON templates · 8 domains
-                            ╰────────╯
-                                            ╭─── 💎 ───╮
-           ╭── 🔴 ──╮                      │ NEPTUNE  │
-           │  MARS  │                       │ Open Src │  MIT licensed
-           │  Med AI│  insightmed           │ 16 repos │  GitHub
-           │  tools │  digitalnurse         ╰──────────╯
-           ╰────────╯
-                         ╭──── ☀️ ────╮
-  ╭── 🟠 ──╮            │            │           ╭── 🟣 ──╮
-  │ VENUS  │            │  HASSAN    │           │URANUS  │
-  │ AI Eng │ 4 years    │  SALMAN    │           │Content │  Canva
-  │ Claude │ Gemini     │            │           │Creator │  Design
-  │ GPT-5  │ certified  │ @3h0ll7 🇮🇶 │           ╰────────╯
-  ╰────────╯            │            │
-                         ╰────────────╯
-           ╭── 🌍 ──╮                      ╭── 🟤 ──╮
-           │ EARTH  │                      │JUPITER │
-           │  Iraqi │  شكد تسوه؟           │FullStk │  React · TS
-           │ Market │  Real Estate         │  Vibe  │  Supabase
-           ╰────────╯  Najaf               │ Coder  │  Lovable.dev
-                                           ╰────────╯
-                            ╭── ⚡ ──╮
-                            │MERCURY │  Ship fast
-                            │  Vibe  │  Break nothing
-                            │ Coding │  Pure energy
-                            ╰────────╯
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Hassan Salman  ·  @3h0ll7  ·  Najaf, Iraq 🇮🇶                  ║
+║                                                                  ║
+║   I don't write code — I vibe it into existence.                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-| 🪐 Planet | 🌌 Domain | ⚡ Details |
-|:---------:|:---------:|:----------:|
-| ☀️ **Sun** | **Hassan Salman** | `@3h0ll7` · Najaf, Iraq 🇮🇶 |
-| ⚡ **Mercury** | **Vibe Coding** | Ship fast · break nothing · pure energy |
-| 🟠 **Venus** | **AI Engineering** | 4 years · Claude · Gemini · GPT-5 |
-| 🌍 **Earth** | **Iraqi Market** | شكد تسوه · Real Estate · Arabic RTL |
-| 🔴 **Mars** | **Med-AI Tools** | insightmed · digitalnurse · ICU BRAIN |
-| 🟤 **Jupiter** | **Full-Stack** | React 18 · TypeScript · Supabase · Lovable |
-| 🪐 **Saturn** | **Prompt Eng** | JSON templates · 8 professional domains |
-| 🟣 **Uranus** | **Content** | Canva decks · design · medical education |
-| 💎 **Neptune** | **Open Source** | 16 repos · MIT · community |
+⚡ **Vibe Coder**<br>
+Ship fast · break nothing<br>
+Idea → Product in hours<br>
+Lovable.dev power user
 
-</div>
+</td>
+<td align="center" width="33%">
+
+🤖 **AI Engineer**<br>
+4 years deep in AI<br>
+Claude · Gemini · GPT-5<br>
+Multi-agent architectures
+
+</td>
+<td align="center" width="33%">
+
+🛠️ **Full-Stack Builder**<br>
+React 18 · TypeScript<br>
+Supabase · Tailwind<br>
+16 repos and counting
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🇮🇶 **Iraqi Market**<br>
+شكد تسوه؟ · Real Estate<br>
+Arabic RTL · IQD support<br>
+PayTabs integration
+
+</td>
+<td align="center">
+
+🧠 **Prompt Engineer**<br>
+JSON prompt templates<br>
+8 professional domains<br>
+Structured AI workflows
+
+</td>
+<td align="center">
+
+🎨 **Content Creator**<br>
+Canva presentations<br>
+Medical education decks<br>
+AI-powered design
+
+</td>
+</tr>
+</table>
 
 ---
 

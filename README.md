@@ -56,16 +56,6 @@
 
 ---
 
-## 🏆 `> achievements`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=3h0ll7&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 🚀 `> featured repos`
 
 <div align="center">

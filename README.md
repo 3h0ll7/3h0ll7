@@ -1,10 +1,10 @@
 <!-- Matrix Rain Header -->
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=𝙷𝚊𝚜𝚜𝚊𝚗%20𝚂𝚊𝚕𝚖𝚊𝚗&fontSize=42&fontColor=00FF41&fontAlignY=35&desc=Vibe%20Coder%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descSize=18&descColor=00FF41&descAlignY=55&animation=fadeIn)
+![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=𝙷𝚊𝚜𝚜𝚊𝚗%20𝚂𝚊𝚕𝚖𝚊𝚗&fontSize=42&fontColor=00FF41&fontAlignY=35&desc=Vibe%20Coder%20%7C%20ICU%20Nurse%20%7C%20Product%20Builder&descSize=18&descColor=00FF41&descAlignY=55&animation=fadeIn)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Vibe+coding+real+products+into+existence;%3E+AI+engineer+shipping+from+Iraq+%F0%9F%87%AE%F0%9F%87%B6;%3E+16%2B+repos+%C2%B7+4+years+AI+%C2%B7+pure+vibes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Vibe+coding+real+products+into+existence;%3E+Building+AI-powered+tools+from+Iraq+%F0%9F%87%AE%F0%9F%87%B6;%3E+4+years+AI+%C2%B7+pure+vibes+%C2%B7+ship+fast)](https://git.io/typing-svg)
 
 <!-- Status Badges -->
 ![Status](https://img.shields.io/badge/status-active-00FF41?style=flat-square&labelColor=0D1117)
@@ -64,12 +64,12 @@
 
 <div align="center">
 
-[![digitalnurse](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=digitalnurse&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/digitalnurse)
-[![insightmed](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=insightmed&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/insightmed)
-[![kidinnuaitools](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=kidinnuaitools&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/kidinnuaitools)
-[![scriptforge-ai](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=scriptforge-ai&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/scriptforge-ai)
-[![itemvalue](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=itemvalue&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/itemvalue)
-[![hassanaii](https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=hassanaii&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41)](https://github.com/3h0ll7/hassanaii)
+<a href="https://github.com/3h0ll7/digitalnurse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=digitalnurse&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/insightmed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=insightmed&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/kidinnuaitools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=kidinnuaitools&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/scriptforge-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=scriptforge-ai&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/itemvalue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=itemvalue&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/hassanaii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=hassanaii&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
 
 </div>
 

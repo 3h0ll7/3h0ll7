@@ -12,6 +12,12 @@
 ![Location](https://img.shields.io/badge/location-Iraq%20🇮🇶-00FF41?style=flat-square&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/focus-Vibe%20Coding%20×%20AI-00FF41?style=flat-square&labelColor=0D1117)
 
+<br>
+
+<img src="./chameleon-animated.gif" alt="Chameleon - Adapting to every stack" width="600" />
+
+*`> Like a chameleon — I adapt to every stack, every challenge, every vibe.`*
+
 </div>
 
 ---

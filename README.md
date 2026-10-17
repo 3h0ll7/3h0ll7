@@ -61,12 +61,11 @@
 <div align="center">
 
 <a href="https://github.com/3h0ll7/digitalnurse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=digitalnurse&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
-<a href="https://github.com/3h0ll7/kidinnuaitools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=kidinnuaitools&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
+<a href="https://github.com/3h0ll7/scriptforge-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=scriptforge-ai&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
 
 </div>
 
 ---
-
 
 ## 🛠️ `> tech stack`
 

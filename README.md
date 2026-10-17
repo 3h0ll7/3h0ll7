@@ -61,76 +61,12 @@
 <div align="center">
 
 <a href="https://github.com/3h0ll7/digitalnurse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=digitalnurse&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
-<a href="https://github.com/3h0ll7/insightmed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=insightmed&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
 <a href="https://github.com/3h0ll7/kidinnuaitools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=kidinnuaitools&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
-<a href="https://github.com/3h0ll7/scriptforge-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=scriptforge-ai&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
-<a href="https://github.com/3h0ll7/itemvalue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=itemvalue&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
-<a href="https://github.com/3h0ll7/hassanaii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3h0ll7&repo=hassanaii&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=9FE1CB&icon_color=00FF41&border_color=00FF41" width="49%" /></a>
 
 </div>
 
 ---
 
-## 🏗️ `> product domains`
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🤖 AI Tools & SaaS
-**kidinnuaitools**<br>
-191+ curated AI directory<br>
-10 professional categories
-
-**scriptforge-ai**<br>
-Video script generator<br>
-EN/AR · YouTube/TikTok
-
-**AnimalVerse AI**<br>
-Ecosystem simulation<br>
-Claude API agents
-
-</td>
-<td align="center" width="25%">
-
-### 🇮🇶 Iraqi Market
-**itemvalue / شكد تسوه**<br>
-AI used-item pricing<br>
-Iraqi Dinar · PayTabs
-
-**Real Estate Dashboard**<br>
-Najaf property market<br>
-Peace & Quiet Index
-
-</td>
-<td align="center" width="25%">
-
-### 🏥 Med-AI
-**digitalnurse**<br>
-Clinical cockpit · PWA<br>
-90+ commits
-
-**insightmed**<br>
-Medical doc analysis<br>
-Multi-model AI council
-
-</td>
-<td align="center" width="25%">
-
-### 🎨 Vibe Builds
-**hassanaii**<br>
-Personal portfolio<br>
-AI & Tech brand
-
-**ICU BRAIN**<br>
-Multi-agent dashboard<br>
-7 specialized agents
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ `> tech stack`
 
